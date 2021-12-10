@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/deparmentbg"
+    tools:context=".fourteenBatchDNT">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="30dp"
+            >
+
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Name : Hasan Mahmud"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Department : D.N.T"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Shift : 1st"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="15dp"
+                android:text="Mobile : +8801843090077"
+                android:textColor="@color/white"
+                android:textSize="30sp"
+
+                />
+
+            <Button
+                android:id="@+id/hasan_mahmud_call"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Call Now"
+                android:drawableLeft="@drawable/ic_call"
+                android:backgroundTint="@color/ic_launcher_background"
+                android:layout_gravity="center_horizontal"
+                >
+
+
+
+            </Button>
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:background="@drawable/spacecolor"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="30dp"
+            >
+
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Name : Ismail Hossain Tayeb"
+                android:textSize="29sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Department : D.N.T"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Shift : 1st"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="15dp"
+                android:text="Mobile : +8801972283062"
+                android:textColor="@color/white"
+                android:textSize="30sp"
+
+                />
+
+            <Button
+                android:id="@+id/ismail_call"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Call Now"
+                android:drawableLeft="@drawable/ic_call"
+                android:backgroundTint="@color/ic_launcher_background"
+                android:layout_gravity="center_horizontal"
+                >
+
+
+
+            </Button>
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:background="@drawable/spacecolor"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="30dp"
+            >
+
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Name : Rubayet Hossain"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Department : D.N.T"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Shift : 2nd"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="15dp"
+                android:text="Mobile : +8801784863604"
+                android:textColor="@color/white"
+                android:textSize="30sp"
+
+                />
+
+            <Button
+                android:id="@+id/rubai_call"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Call Now"
+                android:drawableLeft="@drawable/ic_call"
+                android:backgroundTint="@color/ic_launcher_background"
+                android:layout_gravity="center_horizontal"
+                >
+
+
+
+            </Button>
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:background="@drawable/spacecolor"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="30dp"
+            >
+
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Name : Omar Faruk"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Department : D.N.T"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Shift : 2nd"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="15dp"
+                android:text="Mobile : +8801811147326"
+                android:textColor="@color/white"
+                android:textSize="30sp"
+
+                />
+
+            <Button
+                android:id="@+id/faruk_call"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Call Now"
+                android:drawableLeft="@drawable/ic_call"
+                android:backgroundTint="@color/ic_launcher_background"
+                android:layout_gravity="center_horizontal"
+                >
+
+
+
+            </Button>
+
+
+
+        </LinearLayout>
+
+
+
+
+    </LinearLayout>
+
+
+</ScrollView>

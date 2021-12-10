@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/deparmentbg"
+    tools:context=".ThirteenBatchDNT">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="30dp"
+            >
+
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Name : Hridoy."
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Department : D.N.T"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Shift : 1st"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Mobile : +8801866925745"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <Button
+                android:id="@+id/HridyCall1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Call Now"
+                android:drawableLeft="@drawable/ic_call"
+                android:backgroundTint="@color/ic_launcher_background"
+                android:layout_gravity="center_horizontal"
+                >
+
+
+
+            </Button>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:background="@drawable/spacecolor"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="30dp"
+            >
+
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Name : Nusrat Jahan."
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Department : D.N.T"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Shift : 1st"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:background="@drawable/spacecolor"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="30dp"
+            >
+
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Name : Api Chandra Sharma"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Department : D.N.T"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Shift : 2nd"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="15dp"
+                android:text="Mobile : +8801830540932"
+                android:textColor="@color/white"
+                android:textSize="30sp"
+
+                />
+
+            <Button
+                android:id="@+id/SharmaCall1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Call Now"
+                android:drawableLeft="@drawable/ic_call"
+                android:backgroundTint="@color/ic_launcher_background"
+                android:layout_gravity="center_horizontal"
+                >
+
+
+
+            </Button>
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:background="@drawable/spacecolor"
+            />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="30dp"
+            >
+
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Name : Jannatul Maiem."
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Department : D.N.T"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Shift : 2nd"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+
+
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</ScrollView>

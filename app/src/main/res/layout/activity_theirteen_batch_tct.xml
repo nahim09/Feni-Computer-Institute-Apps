@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/deparmentbg"
+    tools:context=".TheirteenBatchTCT">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="30dp"
+            >
+
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Name : Omar Faruq Jobayer"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Department : T.C.T"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Shift : 1st"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Mobile : +8801724624600"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <Button
+                android:id="@+id/jobayer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Call Now"
+                android:drawableLeft="@drawable/ic_call"
+                android:backgroundTint="@color/ic_launcher_background"
+               android:layout_gravity="center_horizontal"
+                >
+
+
+
+            </Button>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:background="@drawable/spacecolor"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="30dp"
+            >
+
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Name : Soniay Akter"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Department : T.C.T"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Shift : 1st"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:background="@drawable/spacecolor"
+            />
+
+
+
+
+
+
+
+    </LinearLayout>
+
+
+</ScrollView>

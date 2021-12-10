@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.fenicomputerinstituteapps">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/fcilogo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/fcilogo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FeniComputerInstituteApps">
+
+        <activity android:name=".NoticeBoard"></activity>
+        <activity android:name=".Facebook" />
+        <activity android:name=".Webside" />
+        <activity android:name=".ProbidhanTeen" />
+        <activity android:name=".ProbidhanSixteen" />
+        <activity android:name=".Probidan" />
+        <activity android:name=".Tct_Sylabus" />
+        <activity android:name=".Dnt_Sylabus" />
+        <activity android:name=".Cst_sylabus" />
+        <activity android:name=".Syllabus" />
+        <activity android:name=".FifteenBatchDNT" />
+        <activity android:name=".fourteenBatchDNT" />
+        <activity android:name=".FifteenBatchCST" />
+        <activity android:name=".FourteenBatchCST" />
+        <activity android:name=".FifteenBatchTCT" />
+        <activity android:name=".FourteenBatchTCT" />
+        <activity android:name=".TheirteenBatchTCT" />
+        <activity android:name=".ThirteenBatchDNT" />
+        <activity android:name=".ThirteenBatchCST" />
+        <activity android:name=".TctHead" />
+        <activity android:name=".DntHead" />
+        <activity android:name=".CstHead" />
+        <activity android:name=".HeadCst" />
+        <activity android:name=".DepartmentHead" />
+        <activity android:name=".TctCR" />
+        <activity android:name=".DntCR" />
+        <activity android:name=".CstClassCR" />
+        <activity android:name=".ClassCR" />
+        <activity android:name=".OfficeStaffs" />
+        <activity android:name=".CstTeacher" />
+        <activity android:name=".AboutUS" />
+        <activity android:name=".About_Seif" />
+        <activity android:name=".Girl_Hostel" />
+        <activity android:name=".Boys_Hostel" />
+        <activity android:name=".Hostel" />
+        <activity android:name=".Rs_Teacher" />
+        <activity android:name=".Tct_Teacher" />
+        <activity android:name=".Dnt_Teacher" />
+        <activity android:name=".Teachers" />
+        <activity android:name=".Principal" />
+        <activity android:name=".TCT_Deparment" />
+        <activity android:name=".DNT_Deparmenr" />
+        <activity android:name=".Cst_Deparment" />
+        <activity android:name=".Deparment" />
+        <activity android:name=".About_Fci" />
+        <activity android:name=".MainActivity"/>
+            <activity android:name=".SplasScreen">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+    </application>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+</manifest>

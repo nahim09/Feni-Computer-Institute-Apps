@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/splbackground"
+    android:orientation="vertical"
+    tools:context=".SplasScreen">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+
+
+      <ImageView
+          android:layout_width="100dp"
+          android:layout_height="100dp"
+          android:src="@drawable/fcilogo"
+          android:layout_gravity="center_horizontal"
+          android:layout_marginTop="80dp"
+          />
+
+
+
+   <TextView
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:text="𝕎𝔼𝕃ℂ𝕆𝕄𝔼"
+       android:textAllCaps="true"
+       android:textSize="40sp"
+       android:textColor="#0AE4D0"
+       android:textStyle="bold"
+       android:layout_gravity="center_horizontal"
+       android:layout_marginTop="50dp"
+       />
+
+   <TextView
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="30dp"
+       android:text="🅵🅴🅽🅸 🅲🅾🅼🅿🆄🆃🅴🆁\n🅸🅽🆂🆃🅸🆃🆄🆃🅴"
+       android:textAllCaps="true"
+       android:textSize="22sp"
+       android:textColor="#0AE4D0"
+       android:textStyle="bold"
+       android:gravity="center"
+       android:layout_gravity="center"
+
+       />
+
+
+   <androidx.core.widget.ContentLoadingProgressBar
+       android:id="@+id/prograsbar_id"
+       style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+       android:layout_width="300dp"
+       android:layout_height="35dp"
+       android:progressBackgroundTint="@color/white"
+       android:progressTint="#02b3b9"
+       android:layout_gravity="center_horizontal"
+       android:layout_marginTop="100dp"
+       >
+
+   </androidx.core.widget.ContentLoadingProgressBar>
+
+</LinearLayout>
+
+</ScrollView>

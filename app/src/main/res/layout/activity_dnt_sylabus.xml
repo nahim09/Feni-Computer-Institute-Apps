@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Dnt_Sylabus">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/dntclbs1"
+            android:layout_gravity="center_horizontal"
+            />
+
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/dntclbs2"
+            android:layout_gravity="center_horizontal"
+            />
+
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/dntclbs3"
+            android:layout_gravity="center_horizontal"
+            />
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/dntclbs4"
+            android:layout_gravity="center_horizontal"
+            />
+
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/dntclbs5"
+            android:layout_gravity="center_horizontal"
+            />
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/dntclbs6"
+            android:layout_gravity="center_horizontal"
+            />
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/dntclbs7"
+            android:layout_gravity="center_horizontal"
+            />
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/dntclbs8"
+            android:layout_gravity="center_horizontal"
+            />
+    </LinearLayout>
+
+</ScrollView>

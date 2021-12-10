@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Tct_Sylabus">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/tctcalbse1"
+            android:layout_gravity="center_horizontal"
+            />
+
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/tctcalbse2"
+            android:layout_gravity="center_horizontal"
+            />
+
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/tctcelbse3"
+            android:layout_gravity="center_horizontal"
+            />
+
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/tctcelbse4"
+            android:layout_gravity="center_horizontal"
+            />
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/tctcelbse5"
+            android:layout_gravity="center_horizontal"
+            />
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/tctcelbse6"
+            android:layout_gravity="center_horizontal"
+            />
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/tctcelbse7"
+            android:layout_gravity="center_horizontal"
+            />
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/tctcelbse8"
+            android:layout_gravity="center_horizontal"
+            />
+
+    </LinearLayout>
+
+</ScrollView>

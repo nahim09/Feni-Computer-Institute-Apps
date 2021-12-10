@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/deparmentbg"
+    tools:context=".FifteenBatchTCT">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="30dp"
+            >
+
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Name : Mahmudul Hasan."
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Department : T.C.T"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Shift : 1st"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Mobile : +8801887947446"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <Button
+                android:id="@+id/hasanCall1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Call Now"
+                android:drawableLeft="@drawable/ic_call"
+                android:backgroundTint="@color/ic_launcher_background"
+                android:layout_gravity="center_horizontal"
+                >
+
+
+
+            </Button>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:background="@drawable/spacecolor"
+                />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="30dp"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Name : Mahbub Alam."
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Department : T.C.T"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Shift : 2nd"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Mobile : +8801856137978"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+
+            <Button
+                android:id="@+id/mahbubCall1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:backgroundTint="@color/ic_launcher_background"
+                android:drawableLeft="@drawable/ic_call"
+                android:text="Call Now">
+
+
+            </Button>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:background="@drawable/spacecolor"
+                />
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+</ScrollView>

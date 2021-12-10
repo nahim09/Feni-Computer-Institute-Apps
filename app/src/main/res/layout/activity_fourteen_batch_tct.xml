@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/deparmentbg"
+    tools:context=".FourteenBatchTCT">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="30dp"
+            >
+
+
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginLeft="15dp"
+    >
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Name : Md. Kawsar"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="CR Number : 1st"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Department : T.C.T"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Shift : 1st"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Mobile : +8801640936009"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                />
+
+</LinearLayout>
+            <Button
+                android:id="@+id/kawsarCall1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Call Now"
+                android:drawableLeft="@drawable/ic_call"
+                android:backgroundTint="@color/ic_launcher_background"
+                android:layout_gravity="center_horizontal"
+
+                >
+
+
+
+            </Button>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:background="@drawable/spacecolor"
+                />
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="30dp"
+            >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginLeft="15dp">
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Name : Md. Omar Faruq"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="CR Number : 2nd"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Department : T.C.T"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Shift : 1st"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Mobile : +8801843127783"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                />
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/omarCall1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Call Now"
+                android:drawableLeft="@drawable/ic_call"
+                android:backgroundTint="@color/ic_launcher_background"
+                android:layout_gravity="center_horizontal"
+
+                >
+
+
+
+            </Button>
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:background="@drawable/spacecolor"
+            android:layout_marginTop="10dp"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="30dp"
+            >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginLeft="15dp">
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Name : Tasbia Anjum"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Department : T.C.T"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Shift : 1st"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                />
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:background="@drawable/spacecolor"
+            android:layout_marginTop="10dp"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Name : Badhon"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="CR Number : 2nd"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Department : T.C.T"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Shift : 2nd"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Mobile : +8801865742820"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <Button
+                android:id="@+id/badonCall1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Call Now"
+                android:drawableLeft="@drawable/ic_call"
+                android:backgroundTint="@color/ic_launcher_background"
+                android:layout_marginLeft="120dp"
+
+                >
+
+
+
+            </Button>
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:background="@drawable/spacecolor"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="30dp"
+            >
+
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Name : Abu Horain"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="CR Number : 2nd"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Department : T.C.T"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Shift : 2nd"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Mobile : +8801748008121"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <Button
+                android:id="@+id/hurainCall1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Call Now"
+                android:drawableLeft="@drawable/ic_call"
+                android:backgroundTint="@color/ic_launcher_background"
+                android:layout_marginLeft="120dp"
+
+                >
+
+
+
+            </Button>
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:background="@drawable/spacecolor"
+            />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="30dp"
+            >
+
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Name : Tripty."
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Department : C.S.T"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Shift : 2nd"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="15dp"
+
+                />
+
+
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</ScrollView>

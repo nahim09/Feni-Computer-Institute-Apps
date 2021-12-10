@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="@color/teal_700"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                >
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="290dp">
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/cst1"
+
+
+        />
+
+</LinearLayout>
+
+
+
+                <LinearLayout
+                    android:layout_width="410dp"
+                    android:layout_height="70dp"
+                    android:background="#076A61"
+                    >
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="70dp"
+                        android:text="Computer Science  and Technology"
+                        android:textStyle="bold"
+                        android:textSize="28sp"
+                        android:textColor="@color/white"
+                        />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="10dp"
+                    >
+
+
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                     android:text="@string/text_1"
+                        android:textColor="@color/white"
+
+                        android:textSize="18sp" />
+
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="15dp"
+                    android:orientation="vertical"
+                    >
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:textColor="@color/white"
+                        android:text="কম্পিউটার সায়েন্স এন্ড টেকনােলােজি
+কেন পড়বেন ?"
+                        android:textSize="22sp"
+                        android:layout_marginTop="5dp"
+                        android:textStyle="bold"
+                        />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:textSize="18sp"
+                        android:text="@string/text_2"
+                        android:textColor="@color/white"
+                        />
+
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:textColor="@color/white"
+                        android:text="কম্পিউটার প্রকৌশলীদের কাজটা কি  ?"
+                        android:textSize="22sp"
+                        android:layout_marginTop="5dp"
+                        />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:textColor="@color/white"
+                        android:text="@string/text_3"
+                        android:textSize="18sp"
+                        android:layout_marginTop="5dp"
+                        />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text=" কম্পিউটার সায়েন্সের বিষয় বস্তুরবর্ণনাঃ"
+                        android:textSize="22sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/white"
+
+                        />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="@string/text_4"
+                        android:textSize="18sp"
+                        android:textColor="@color/white"
+
+                        />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:textColor="@color/white"
+                        android:text="@string/text_5"
+                        android:textSize="18sp"
+                        android:layout_marginTop="5dp"
+                        />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:textColor="@color/white"
+                        android:text="@string/text_6"
+                     android:textSize="18sp"
+                    android:layout_marginTop="5dp"
+                    />
+
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:textColor="@color/white"
+                        android:text="@string/text_7"
+                        android:textSize="18sp"
+                        android:layout_marginTop="5dp"
+                        />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:textColor="@color/white"
+                        android:text="@string/text_8"
+                        android:textSize="18sp"
+                        android:layout_marginTop="5dp"
+                        />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:textColor="@color/white"
+                        android:text="@string/text_9"
+                        android:textSize="18sp"
+                        android:layout_marginTop="5dp"
+                        />
+
+
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+
+
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+    </ScrollView>

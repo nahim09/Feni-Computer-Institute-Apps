@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/teal_700"
+    tools:context=".CstTeacher">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center_horizontal"
+        >
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center_horizontal"
+        >
+
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:src="@drawable/afroja"
+            android:layout_gravity="center_horizontal"
+            />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="Name: Afroja jainab "
+            android:textColor="@color/white"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="Head of the Departmt"
+            android:textColor="@color/white"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="Depatment: C.S.T"
+            android:textColor="@color/white"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="Designation: Instructor(C.S.T)"
+            android:textColor="@color/white"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="Phone:+8801711132353"
+            android:textColor="@color/white"
+            />
+
+
+        <Button
+            android:id="@+id/afrojaCall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Call Now"
+            android:drawableLeft="@drawable/ic_call"
+            android:backgroundTint="@color/ic_launcher_background"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            >
+
+
+
+        </Button>
+
+
+
+    </LinearLayout>
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="10dp"
+    android:layout_marginTop="10dp"
+    android:background="@color/ic_launcher_background"
+    >
+
+</LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center_horizontal"
+            >
+
+            <ImageView
+                android:layout_width="350dp"
+                android:layout_height="350dp"
+                android:src="@drawable/nakib"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:text="Name: Md. Nakibul Hassan "
+                android:textColor="@color/white"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:text="Depatment: C.S.T"
+                android:textColor="@color/white"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:text="Designation: Instructor"
+                android:textColor="@color/white"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:text="Phone:+8801710020761"
+                android:textColor="@color/white"
+                />
+
+
+            <Button
+                android:id="@+id/nakibCall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Call Now"
+                android:drawableLeft="@drawable/ic_call"
+                android:backgroundTint="@color/ic_launcher_background"
+                android:layout_gravity="center_horizontal"
+                />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/ic_launcher_background"
+            >
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center_horizontal"
+            >
+
+
+            <ImageView
+                android:layout_width="350dp"
+                android:layout_height="350dp"
+                android:src="@drawable/samim1"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                />
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:text="Name: Abdus Sobhan shamim  "
+                android:textColor="@color/white"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:text="Depatment: C.S.T"
+                android:textColor="@color/white"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:text="Designation: Instructor"
+                android:textColor="@color/white"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:text="Phone:+8801813243436"
+                android:textColor="@color/white"
+                />
+
+            <Button
+                android:id="@+id/samimCall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Call Now"
+                android:drawableLeft="@drawable/ic_call"
+                android:backgroundTint="@color/ic_launcher_background"
+                android:layout_gravity="center_horizontal"/>
+
+
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/ic_launcher_background"
+            >
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center_horizontal"
+            >
+
+            <ImageView
+                android:layout_width="350dp"
+                android:layout_height="350dp"
+                android:src="@drawable/sohel"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:text="Name: Md Sohel Rana "
+                android:textColor="@color/white"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:text="Depatment: C.S.T"
+                android:textColor="@color/white"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:text="Designation: Junior Instructor"
+                android:textColor="@color/white"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:text="Phone:+8801625225586"
+                android:textColor="@color/white"
+                />
+            <Button
+                android:id="@+id/sohalCall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Call Now"
+                android:drawableLeft="@drawable/ic_call"
+                android:backgroundTint="@color/ic_launcher_background"
+                android:layout_gravity="center_horizontal"
+
+                />
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/ic_launcher_background"
+            >
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center_horizontal"
+            >
+
+
+            <ImageView
+                android:layout_width="350dp"
+                android:layout_height="350dp"
+                android:src="@drawable/moly"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:text="Name: M.A Moly "
+                android:textColor="@color/white"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:text="Depatment: C.S.T"
+                android:textColor="@color/white"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:text="Designation: Junir Instructor"
+                android:textColor="@color/white"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:text="Phone:+8801776290973"
+                android:textColor="@color/white"
+                />
+
+            <Button
+                android:id="@+id/molyCall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Call Now"
+                android:drawableLeft="@drawable/ic_call"
+                android:backgroundTint="@color/ic_launcher_background"
+                android:layout_gravity="center_horizontal"
+
+                >
+
+
+
+            </Button>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/ic_launcher_background"
+            >
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center_horizontal"
+            >
+
+            <ImageView
+                android:layout_width="350dp"
+                android:layout_height="350dp"
+                android:src="@drawable/nehal"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                />
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:text="Name: M.D Muzahidul islam "
+                android:textColor="@color/white"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:text="Depatment: C.S.T"
+                android:textColor="@color/white"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:text="Designation: Junior Instructor"
+                android:textColor="@color/white"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:text="Phone:+8807629927719"
+                android:textColor="@color/white"
+                />
+
+            <Button
+                android:id="@+id/nehalCall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Call Now"
+                android:drawableLeft="@drawable/ic_call"
+                android:backgroundTint="@color/ic_launcher_background"
+                android:layout_gravity="center_horizontal"
+
+                />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>
