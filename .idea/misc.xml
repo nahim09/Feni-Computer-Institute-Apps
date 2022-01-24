@@ -3,9 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/FenicomputerInstituteapps/app/src/main/res/drawable/baton_bg.xml" value="0.2169230769230769" />
+        <entry key="..\:/FenicomputerInstituteapps/app/src/main/res/drawable/button_bg.xml" value="0.2169230769230769" />
         <entry key="..\:/FenicomputerInstituteapps/app/src/main/res/layout/activity_about_fci.xml" value="0.1" />
         <entry key="..\:/FenicomputerInstituteapps/app/src/main/res/layout/activity_about_us.xml" value="0.1" />
         <entry key="..\:/FenicomputerInstituteapps/app/src/main/res/layout/activity_cst_deparment.xml" value="0.1" />
+        <entry key="..\:/FenicomputerInstituteapps/app/src/main/res/layout/activity_cst_head.xml" value="0.1" />
         <entry key="..\:/FenicomputerInstituteapps/app/src/main/res/layout/activity_cst_teacher.xml" value="0.1" />
         <entry key="..\:/FenicomputerInstituteapps/app/src/main/res/layout/activity_department_head.xml" value="0.1" />
         <entry key="..\:/FenicomputerInstituteapps/app/src/main/res/layout/activity_dnt_deparmenr.xml" value="0.1" />
@@ -17,6 +20,7 @@
         <entry key="..\:/FenicomputerInstituteapps/app/src/main/res/layout/activity_tct_deparment.xml" value="0.1" />
         <entry key="..\:/FenicomputerInstituteapps/app/src/main/res/layout/activity_tct_sylabus.xml" value="0.25" />
         <entry key="..\:/FenicomputerInstituteapps/app/src/main/res/layout/activity_teachers.xml" value="0.1" />
+        <entry key="..\:/FenicomputerInstituteapps/app/src/main/res/layout/activity_webside.xml" value="0.1" />
       </map>
     </option>
   </component>
